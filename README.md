@@ -1,4 +1,6 @@
 **Weight_Lifting_Exercises**
+
+
 This document is the weight lifting routine to exercise various muscle groups. You need to either have an online mentor or a Gym Mentor to do these exercises for the first month. 
 
 *[Weight loss in cm tracking](https://docs.google.com/spreadsheets/d/e/2PACX-1vQqAcDK9q5VBzb7DE2DhJF7EerMFxwDSXmd-m_CwM-95lNFmJ4BZKz0lloPJk3Mkg0yUOxsvU7N68_e/pubhtml)
